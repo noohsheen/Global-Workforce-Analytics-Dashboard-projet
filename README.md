@@ -4,6 +4,7 @@
 
 The **Global Workforce Analytics Dashboard** is a Power BI project developed to analyze employee data and workforce trends across different departments and countries. The dashboard provides interactive insights into employee demographics, salary distribution, company growth, and performance analysis to support data-driven HR decision-making.
 
+
 ## 🎯 Objectives
 
 * Analyze workforce distribution across departments
@@ -14,6 +15,7 @@ The **Global Workforce Analytics Dashboard** is a Power BI project developed to 
 * Track company growth trends
 * Enable dynamic employee filtering
 * Analyze salary statistics department-wise
+
 
 ## 📊 Dashboard Features
 
